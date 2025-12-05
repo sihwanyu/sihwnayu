@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>【Unreal Engine】 — LV. 1</strong><br>
-  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
 </p>
 
 <p align="center">
