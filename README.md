@@ -47,8 +47,8 @@
 </p>
 
 <p align="center">
-  <strong>【C++】 — LV. 1</strong><br>
-  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+  <strong>【C++】 — LV. 2</strong><br>
+  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 </p>
 
 <br>
